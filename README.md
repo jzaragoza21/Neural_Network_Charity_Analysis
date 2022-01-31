@@ -48,3 +48,5 @@ I executed three additional attempts of improving the accuracy score to 75 perce
 
 
 ## Summary
+
+As pointed out by the analysis above, all of our model attempts failed to reach an accuracy score of 75 percent or more. The best attempt was when the amount of neurons increased in the first and second hidden layers, resulting in an accuracy score of 57 percent, slightly better than a coin flip. As a result, I would recommend to perhaps a support vector machine model as it is really fitted for classification and regression models. 
